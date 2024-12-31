@@ -1,7 +1,7 @@
 ## 🌍 Hello word, I'm Lajoie
 
-I'm deeply enthusiastic about delving into research in Statistics and Data science, with particular interests in [failure-Time analysis](https://fr.wikipedia.org/wiki/Loi_de_Weibull), [computer vision](https://fr.wikipedia.org/wiki/Vision_par_ordinateur), and [GenAI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence).
-Additionally, I enjoy immersing myself in new realms like game engines and web development, often learning from fellow developers in the process.
+I'm deeply enthusiastic about delving into research in Statistics and Data science, with particular interests in [failure-Time analysis](https://fr.wikipedia.org/wiki/Loi_de_Weibull), [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network), [Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process) and [GenAI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence).
+Additionally, I enjoy immersing myself in new realms like [game engines](https://en.wikipedia.org/wiki/Video_game_development) and [web development](https://en.wikipedia.org/wiki/Web_development), often learning from fellow developers in the process.
 
 My academic journey has taken me across three countries: Gabon, France, and Switzerland. 
 Throughout my career, I've had the privilege to collaborate with international groups such as [COLAS](https://www.linkedin.com/company/colas/mycompany/), [HEG-GENEVE](https://www.linkedin.com/school/heg/)
