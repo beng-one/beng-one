@@ -1,6 +1,6 @@
 ## 🌍 Hello word, I'm Lajoie
 
-I'm deeply enthusiastic about delving into mathematical research, with particular interests in [failure-Time analysis](https://fr.wikipedia.org/wiki/Loi_de_Weibull), [computer vision](https://fr.wikipedia.org/wiki/Vision_par_ordinateur), and [GenAI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence).
+I'm deeply enthusiastic about delving into research in Statistics and Data science, with particular interests in [failure-Time analysis](https://fr.wikipedia.org/wiki/Loi_de_Weibull), [computer vision](https://fr.wikipedia.org/wiki/Vision_par_ordinateur), and [GenAI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence).
 Additionally, I enjoy immersing myself in new realms like game engines and web development, often learning from fellow developers in the process.
 
 My academic journey has taken me across three countries: Gabon, France, and Switzerland. 
