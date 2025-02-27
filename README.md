@@ -1,17 +1,17 @@
-## 🌍 Hello world, I'm Lajoie
+## 🌍 Présentation
 
-I'm deeply enthusiastic about delving into research in Statistics and Data science, with particular interests in [failure-Time analysis](https://fr.wikipedia.org/wiki/Loi_de_Weibull), [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network), [Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process) and [GenAI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence).
-Additionally, I enjoy immersing myself in new realms like [game engines](https://en.wikipedia.org/wiki/Video_game_development) and [web development](https://en.wikipedia.org/wiki/Web_development), often learning from fellow developers in the process.
+Passionné par les Mathématiques, je souhaite plus tard exercer la profession de Chercheur en Statistiques appliquées. J’ai un intérêt particulier pour [l’Analyse Bayésienne Dynamique](https://fr.wikipedia.org/wiki/R%C3%A9seau_bay%C3%A9sien_dynamique), la [Théorie de la Fiabilité des Systèmes](https://en.wikipedia.org/wiki/Proportional_hazards_model), Les [Processus Stochastiques](https://en.wikipedia.org/wiki/Gaussian_process) et le [Traitement du Langage Naturel](https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs). 
 
-My academic journey has taken me across three countries: Gabon, France, and Switzerland. 
-Throughout my career, I've had the privilege to collaborate with international groups such as [COLAS](https://www.linkedin.com/company/colas/mycompany/), [HEG-GENEVE](https://www.linkedin.com/school/heg/)
-and startups like [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/), where I've contributed as a data science researcher intern and statistician.
+Mon parcours académique m’a permis d’étudier dans trois magnifiques pays que sont le Gabon, la France et la Suisse où j’ai obtenu avec félicitations les diplômes suivants : Baccalauréat scientifique, Bachelor en Finance et Master en Statistique pour la recherche et le traitement de l’information (En cours).
+En parallèle à ces formations, j’ai également eu le privilège de travailler au sein des startups  [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/) , des départements de recherches [HEG-GENEVE](https://www.linkedin.com/school/heg/) et des multinationales [Core Center COLAS](https://www.linkedin.com/company/colas/mycompany/) où j’ai occupé les postes de chargé d’étude statistique et de Stagiaire Data scientist R&D. 
 
-## 📫 How to reach me
+En dehors des études, j’aime développer et jouer les jeux vidéos[Game engine](https://en.wikipedia.org/wiki/Game_engine), lire,  et pratiquer du foot et la course à pied. 
 
-The best way it to find me on [linkedin](www.linkedin.com/in/lajoie-bengone-akou).
+## 📫 Contact
+- [linkedin](www.linkedin.com/in/lajoie-bengone-akou).
+- [Notion]( https://www.notion.so/beng-one/)
 
-## 💻 Tools
+## 💻 Environnement de Développement
 
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png">](https://www.r-studio.com/fr/)
