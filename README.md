@@ -1,4 +1,4 @@
-## 🌍 Hello word, I'm Lajoie
+## 🌍 Hello world, I'm Lajoie
 
 I'm deeply enthusiastic about delving into research in Statistics and Data science, with particular interests in [failure-Time analysis](https://fr.wikipedia.org/wiki/Loi_de_Weibull), [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network), [Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process) and [GenAI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence).
 Additionally, I enjoy immersing myself in new realms like [game engines](https://en.wikipedia.org/wiki/Video_game_development) and [web development](https://en.wikipedia.org/wiki/Web_development), often learning from fellow developers in the process.
