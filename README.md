@@ -15,9 +15,13 @@ En dehors des études, j’aime développer et jouer les jeux vidéos[Game engin
 ## 💻 Environnement de Développement
 
 [<img height="70" width="70" src="https://www.softline.fr/wp-content/uploads/2023/10/PyCharm_Icon.svg_.png">](https://www.jetbrains.com/fr-fr/pycharm/)
+[<img height="70" width="70" src="https://www.ohjelmistot.com/wp-content/uploads/2024/04/CLion_icon.png">](https://www.jetbrains.com/fr-fr/clion/)
+[<img height="70" width="70" src="https://talks.freelancerepublik.com/wp-content/uploads/2021/12/vsc.png">](https://code.visualstudio.com/)
+[<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">](https://posit.co/download/rstudio-desktop/)
+[<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">](https://jupyter.org/)
 
 
-
+## 💻 Langages de programmation
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png">](https://www.r-studio.com/fr/)
 [<img height="70" width="70" src="https://modern-ti.com/wp-content/uploads/2024/01/sql-database-generic.png">](https://sql.sh/)
