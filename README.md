@@ -14,7 +14,7 @@ En dehors des études, j’aime développer et jouer les jeux vidéos[Game engin
 
 ## 💻 Environnement de Développement
 
-[<img height="70" width="70" src="[https://www.softline.fr/wp-content/uploads/2023/10/PyCharm_Icon.svg_.png">]([https://www.pycharm.org/](https://www.jetbrains.com/fr-fr/pycharm/))
+[<img height="70" width="70" src="https://www.softline.fr/wp-content/uploads/2023/10/PyCharm_Icon.svg_.png">](https://www.jetbrains.com/fr-fr/pycharm/)
 
 
 
