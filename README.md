@@ -9,10 +9,10 @@ En parallèle à ces formations, j’ai également eu le privilège de travaille
 En dehors des études, je prends du plaisir à développer et à jouer aux jeux vidéos [(Game engine)](https://en.wikipedia.org/wiki/Game_engine), à lire,  et à faire de la course à pied et à jouer au footaball. 
 
 ## 🔔 Contact
-- [linkedin](www.linkedin.com/in/lajoie-bengone-akou).
+- [Linkedin](www.linkedin.com/in/lajoie-bengone-akou).
 - [Notion]( https://www.notion.so/beng-one/)
 
-## 💻 Environnement de Développement
+## 💻 Outils de Développement
 
 [<img height="70" width="70" src="https://www.softline.fr/wp-content/uploads/2023/10/PyCharm_Icon.svg_.png">](https://www.jetbrains.com/fr-fr/pycharm/)&nbsp;&nbsp;
 [<img height="70" width="70" src="https://www.ohjelmistot.com/wp-content/uploads/2024/04/CLion_icon.png">](https://www.jetbrains.com/fr-fr/clion/)
