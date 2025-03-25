@@ -6,7 +6,7 @@ Mon parcours académique m’a permis d’étudier dans trois magnifiques pays q
 
 En parallèle à ces formations, j’ai également eu le privilège de travailler au sein des startups  [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/) , des départements de recherches [HEG-GENEVE](https://www.linkedin.com/school/heg/) et des multinationales [Core Center COLAS](https://www.linkedin.com/company/colas/mycompany/) où j’ai occupé les postes de chargé d’étude statistique et de stagiaire Data scientist R&D. 
 
-En dehors des études, je prends du plaisir à développer et à jouer aux jeux vidéos [(Game engine)](https://en.wikipedia.org/wiki/Game_engine), à lire,  et à faire de la course à pied et à jouer au footaball. 
+En dehors des études, je prends du plaisir à développer et à jouer aux jeux vidéos [(Game engine)](https://en.wikipedia.org/wiki/Game_engine), à lire,  et à faire de la course à pied et à jouer au football. 
 
 ## 🔔 Contact
 - [Linkedin](www.linkedin.com/in/lajoie-bengone-akou).
