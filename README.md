@@ -1,3 +1,6 @@
+## 🏆 Portefolio 
+[Lien](https://github.com/beng-one/Projet_Portfolio)
+
 ## 🗣 Présentation
 
 Passionné par les Mathématiques, je souhaite plus tard exercer la profession de Chercheur en Statistiques appliquées. J’ai un intérêt particulier pour [l’Analyse Bayésienne Dynamique](https://fr.wikipedia.org/wiki/R%C3%A9seau_bay%C3%A9sien_dynamique), la [Théorie de la Fiabilité des Systèmes](https://en.wikipedia.org/wiki/Proportional_hazards_model), les [Processus Stochastiques](https://en.wikipedia.org/wiki/Gaussian_process) et le [Traitement du Langage Naturel](https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs). 
