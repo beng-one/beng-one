@@ -34,6 +34,7 @@ En dehors des études, je m'adonne à la lecture, la course à pied, au football
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">](https://cplusplus.com/) 
 
 ## 💿 Logiciels
+[<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png">](https://learn.microsoft.com/fr-fr/powershell/)
 [<img height="70" width="70" src="https://academy.qwerio.net/wp-content/uploads/2022/10/Microsoft-Azure.png">](https://azure.microsoft.com/)
 [<img height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">](https://github.com/)
 [<img height="70" width="70" src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png">](https://www.databricks.com/fr)
