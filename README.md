@@ -1,4 +1,5 @@
 ## 🏆 Portfolio 
+
 [Lien](https://github.com/beng-one/Projet_Portfolio)
 
 ## 🗣 Présentation
@@ -12,6 +13,7 @@ En parallèle à ces formations, j’ai également eu le privilège de travaille
 En dehors des études, je m'adonne à la lecture, la course à pied, au football et aux jeux vidéos ( Video Game Player & Designer amator](https://en.wikipedia.org/wiki/Game_engine).
 
 ## 🔔 Contact
+
 - [Linkedin](www.linkedin.com/in/lajoie-bengone-akou).
 - [Notion]( https://www.notion.so/beng-one/)
 
@@ -25,6 +27,7 @@ En dehors des études, je m'adonne à la lecture, la course à pied, au football
 
 
 ## ⚙ Langages de programmation
+
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png">](https://www.r-studio.com/fr/)
 [<img height="70" width="70" src="https://modern-ti.com/wp-content/uploads/2024/01/sql-database-generic.png">](https://sql.sh/)
@@ -34,6 +37,7 @@ En dehors des études, je m'adonne à la lecture, la course à pied, au football
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">](https://cplusplus.com/) 
 
 ## 💿 Logiciels
+
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png">](https://learn.microsoft.com/fr-fr/powershell/)
 [<img height="70" width="70" src="https://academy.qwerio.net/wp-content/uploads/2022/10/Microsoft-Azure.png">](https://azure.microsoft.com/)
 [<img height="70" width="70" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">](https://github.com/)
