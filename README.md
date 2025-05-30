@@ -8,7 +8,7 @@ Passionné par les Mathématiques, je souhaite plus tard exercer la profession d
 
 Mon parcours académique m’a permis d’étudier dans trois magnifiques pays que sont le Gabon, la France et la Suisse où j’ai obtenu avec félicitations les diplômes suivants : Baccalauréat scientifique, Bachelor en Finance et Master en Statistique pour la recherche et le traitement de l’information (En cours).
 
-En parallèle à ces formations, j’ai également eu le privilège de travailler au sein des startups  [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/) , des départements de recherches [HEG-GENEVE](https://www.linkedin.com/school/heg/) et des multinationales [Core Center COLAS](https://www.linkedin.com/company/colas/mycompany/) où j’ai occupé les postes de chargé d’étude statistique et de stagiaire Data scientist R&D. 
+En parallèle à ces formations, j’ai également eu le privilège de travailler au sein des startups  [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/) , des départements de recherches [HEG-GENEVE](https://www.linkedin.com/school/heg/) et des multinationales [Core Center COLAS)(https://www.linkedin.com/company/colas/mycompany/) où j’ai occupé les postes de chargé d’étude statistique et de stagiaire Data scientist R&D. 
 
 En dehors des études, je m'adonne à la lecture, la course à pied, au football et aux jeux vidéos ( Video Game Player & Designer amator](https://en.wikipedia.org/wiki/Game_engine).
 
