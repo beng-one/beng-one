@@ -6,7 +6,7 @@
 
 Passionné par les Mathématiques, je souhaite plus tard exercer la profession de Chercheur en Statistiques appliquées. J’ai un intérêt particulier pour [l’Analyse Bayésienne Dynamique](https://fr.wikipedia.org/wiki/R%C3%A9seau_bay%C3%A9sien_dynamique), la [Théorie de la Fiabilité des Systèmes](https://en.wikipedia.org/wiki/Proportional_hazards_model), les [Processus Stochastiques](https://en.wikipedia.org/wiki/Gaussian_process) et le [Traitement du Langage Naturel](https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs). 
 
-Mon parcours académique m’a permis d’étudier dans trois magnifiques pays que sont le Gabon, la France et la Suisse où j’ai obtenu avec félicitations les diplômes suivants : Baccalauréat scientifique, Bachelor en Finance et Master en Statistique pour la recherche et le traitement de l’information (En cours).
+Mon parcours académique m’a permis d’étudier dans trois magnifiques pays que sont le Gabon, la France et la Suisse où j’ai obtenu avec félicitations les diplômes suivants : Baccalauréat scientifique, Bachelor en Finance et Master en Statistique et Econométrie pour la Recherche, l'Analyse et le Traitement de l’Information (En cours).
 
 En parallèle à ces formations, j’ai également eu le privilège de travailler au sein des startups  [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/) , des départements de recherches [HEG-GENEVE](https://www.linkedin.com/school/heg/) et des multinationales [Core Center COLAS](https://www.linkedin.com/company/colas/mycompany/) où j’ai occupé les postes de chargé d’étude statistique et de stagiaire Data scientist R&D. 
 
