@@ -15,6 +15,7 @@ En dehors des études, je m'adonne à la lecture, à la course à pied, au footb
 ## 🔔 Contact
 
 - [Linkedin](www.linkedin.com/in/lajoie-bengone-akou).
+- [Research Gate](https://www.researchgate.net/profile/Lajoie-Bengone-Akou-2?ev=hdr_xprf)
 - [Notion]( https://www.notion.so/beng-one/)
 
 ## 💻 Outils de Développement
