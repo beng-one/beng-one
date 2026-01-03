@@ -16,7 +16,7 @@ En dehors des études, je m'adonne à la lecture, à la course à pied, au footb
 - [Research Gate](https://www.researchgate.net/profile/Lajoie-Bengone-Akou-2?ev=hdr_xprf)
 - [Notion]( https://www.notion.so/beng-one/)
 
-## 🏆 Portfolio ~ Projet Acamdeiques et Personnels
+## 🏆 Portfolio ~ Projets Acamdeiques et Personnels
 
 [Lien](https://github.com/beng-one/Projet_Portfolio)
 
