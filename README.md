@@ -1,6 +1,4 @@
-## 🏆 Portfolio 
 
-[Lien](https://github.com/beng-one/Projet_Portfolio)
 
 ## 🗣 Présentation
 
@@ -17,6 +15,10 @@ En dehors des études, je m'adonne à la lecture, à la course à pied, au footb
 - [Linkedin](www.linkedin.com/in/lajoie-bengone-akou).
 - [Research Gate](https://www.researchgate.net/profile/Lajoie-Bengone-Akou-2?ev=hdr_xprf)
 - [Notion]( https://www.notion.so/beng-one/)
+
+## 🏆 Portfolio ~ Projet Acamdeiques et Personnels
+
+[Lien](https://github.com/beng-one/Projet_Portfolio)
 
 ## 💻 Outils de Développement
 
