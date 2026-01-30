@@ -24,7 +24,7 @@ En dehors des études, je m'adonne à la lecture, à la course à pied, au footb
 
 [<img height="70" width="70" src="https://www.softline.fr/wp-content/uploads/2023/10/PyCharm_Icon.svg_.png">](https://www.jetbrains.com/fr-fr/pycharm/)&nbsp;&nbsp;
 [<img height="70" width="70" src="https://www.ohjelmistot.com/wp-content/uploads/2024/04/CLion_icon.png">](https://www.jetbrains.com/fr-fr/clion/)
-[<img height="70" width="70" src="https://chris-ayers.com/assets/images/vscode-logo.png">](https://code.visualstudio.com/)&nbsp;&nbsp;
+[<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png">](https://code.visualstudio.com/)&nbsp;&nbsp;
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">](https://posit.co/download/rstudio-desktop/)
 [<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">](https://jupyter.org/)&nbsp;&nbsp;
 
