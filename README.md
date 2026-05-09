@@ -1,20 +1,21 @@
 
 
-## 🗣 Présentation
+## 🗣 Presentation
 
-Passionné par les Mathématiques, je souhaite plus tard exercer la profession de Chercheur en Statistiques appliquées et Science des données. J’ai un intérêt particulier pour [l’Analyse Bayésienne Dynamique](https://fr.wikipedia.org/wiki/R%C3%A9seau_bay%C3%A9sien_dynamique), la [Théorie de la Fiabilité des Systèmes](https://en.wikipedia.org/wiki/Proportional_hazards_model), les [Processus Stochastiques](https://en.wikipedia.org/wiki/Gaussian_process) et le [Traitement du Langage Naturel](https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs). 
+Aspiring researcher in Applied Statistics and Data Science, I believe in the creative force of Sciences that can be harnessed to promote collective wellbeing.  I'm passionate about Computer Science, Economics and Mathematics with a particular interest in [Bayesian Statisctics](https://fr.wikipedia.org/wiki/R%C3%A9seau_bay%C3%A9sien_dynamique), System reliability theory](https://en.wikipedia.org/wiki/Proportional_hazards_model), Machine Learning, Deep Learning and Naural Language Processing [IA](https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs). 
 
-Mon parcours académique m’a permis d’étudier dans trois magnifiques pays que sont le Gabon, la France et la Suisse où j’ai obtenu avec félicitations les diplômes suivants : Baccalauréat scientifique, Bachelor en Finance et Master en Statistique et Econométrie pour la Recherche, l'Analyse et le Traitement de l’Information (En cours).
+My academic journey has allowed me to study in three wonderful countries—Gabon, France, and Switzerland—where I earned the following degrees with honors: a Scientific Baccalaureate, a Bachelor’s degree in Finance, and a Master’s degree in Statistics and Econometrics for Research, Analysis, and Information Processing (in progress).
 
-En parallèle à ces formations, j’ai également eu le privilège de travailler au sein des startups  [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/) , des départements de recherches [HEG-GENEVE](https://www.linkedin.com/school/heg/) et des multinationales [Core Center COLAS](https://www.linkedin.com/company/colas/mycompany/) où j’ai occupé les postes de chargé d’étude statistique et de stagiaire Data scientist R&D. 
+In addition to these training programs, I also had the privilege of working at startups [CORELAB](https://www.linkedin.com/company/co-re-laboratoire/) , research departments [HEG-GENEVE](https://www.linkedin.com/school/heg/) and multinational corporations [Core Center COLAS](https://www.linkedin.com/company/colas/mycompany/) where I held the positions of statistical analyst and R&D data scientist intern. 
 
-En dehors des études, je m'adonne à la lecture, à la course à pied, au football, aux systèmes embarqués et aux jeux vidéos [(Video Game Player & Designer amator)](https://en.wikipedia.org/wiki/Game_engine).
+Outside of school, I enjoy reading, running,  designing embedded systems, playing football and video games [(Video Game Player & Designer amator)](https://en.wikipedia.org/wiki/Game_engine).
 
 ## 🔔 Contact
 
 - [Linkedin](www.linkedin.com/in/lajoie-bengone-akou).
 - [Research Gate](https://www.researchgate.net/profile/Lajoie-Bengone-Akou-2?ev=hdr_xprf)
 - [Notion]( https://www.notion.so/beng-one/)
+- [Strava](https://www.strava.com/athletes/lbengone)
 
 ## 🏆 Portfolio ~ Projets Academiques et Personnels
 
