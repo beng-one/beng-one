@@ -2,7 +2,7 @@
 
 ## 🗣 Presentation
 
-Aspiring researcher in Applied Statistics and Data Science, I believe in the creative force of Sciences that can be harnessed to promote collective wellbeing.  I'm passionate about Computer Science, Economics and Mathematics with a particular interest in [Bayesian Statisctics](https://fr.wikipedia.org/wiki/R%C3%A9seau_bay%C3%A9sien_dynamique), System reliability theory](https://en.wikipedia.org/wiki/Proportional_hazards_model), Machine Learning, Deep Learning and Naural Language Processing [IA](https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs). 
+Aspiring researcher in Applied Statistics and Data Science, I believe in the creative force of Sciences that can be harnessed to promote collective wellbeing.  I'm passionate about Computer Science, Economics and Mathematics with a particular interest in [Bayesian Statisctics](https://fr.wikipedia.org/wiki/R%C3%A9seau_bay%C3%A9sien_dynamique), [System reliability theory](https://en.wikipedia.org/wiki/Proportional_hazards_model), Machine Learning, Deep Learning and Naural Language Processing [(Artificial Intelligence)](https://fr.wikipedia.org/wiki/R%C3%A9seaux_antagonistes_g%C3%A9n%C3%A9ratifs). 
 
 My academic journey has allowed me to study in three wonderful countries—Gabon, France, and Switzerland—where I earned the following degrees with honors: a Scientific Baccalaureate, a Bachelor’s degree in Finance, and a Master’s degree in Statistics and Econometrics for Research, Analysis, and Information Processing (in progress).
 
